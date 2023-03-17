@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://froggy-friday.github.io/Road-To-100/'
 languageCode = 'en-us'
 title = 'Froggy Friday- Road to Lvl 100'
 theme = "blowfish"
